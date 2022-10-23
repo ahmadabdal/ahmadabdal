@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadabdal&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadabdal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadabdal" alt="ahmadabdal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA, Data Structures ,SQL**
@@ -16,7 +14,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdal-ahmad-7507301a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdal-ahmad-7507301a7/" height="30" width="40" /></a>
 <a href="https://fb.com/abdal.ahmad.1804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdal.ahmad.1804" height="30" width="40" /></a>
 <a href="https://instagram.com/abd_ahmad143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abd_ahmad143" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucgyvqvz6ehrubdn0zoju4_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucgyvqvz6ehrubdn0zoju4_a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/abdal ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdal ahmad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
