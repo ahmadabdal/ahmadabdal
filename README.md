@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@abdal880" target="blank"><img src="https://img.shields.io/twitter/follow/@abdal880?logo=twitter&style=for-the-badge" alt="@abdal880" /></a> </p> -->
 
-- 🌱 I’m currently learning **JAVA, Data Structures ,SQL**
+- 🌱 I’m currently learning **JAVA, HTML, CSS, JAVASCRIPT, NODEJS**
 
 - 📫 How to reach me **ahmadabdal675@gmail.com**
 
