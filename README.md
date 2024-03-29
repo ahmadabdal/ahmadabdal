@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdal Ahmad</h1>
-<h3 align="center">Student at RIET, Jaipur. || JAVA || Putting steps into the Front End Developer</h3>
+<h3 align="center">Junior Software Developer at MindSprint | App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadabdal&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadabdal" /> </p>
 
