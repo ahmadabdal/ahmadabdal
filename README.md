@@ -5,9 +5,8 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@abdal880" target="blank"><img src="https://img.shields.io/twitter/follow/@abdal880?logo=twitter&style=for-the-badge" alt="@abdal880" /></a> </p> -->
 
-- 🌱 Junior Software Engineer with 1+ year of experience in developing and maintaining mobile apps using React Native
-and JavaScript, skilled in API integration, performance enhancement, ensuring seamless UI/UX and teamwork to
-deliver high-quality mobile solutions.**
+- 🌱 Results-Driven React Native Developer | 2+ Years of Experience in Cross-Platform Mobile App Development, Performance Optimization & API Integration.
+
 
 - 📫 How to reach me **ahmadabdal675@gmail.com**
 
