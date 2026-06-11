@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdal Ahmad</h1>
-<h3 align="center">Software Developer | React & React Native | 2X Azure & 1X AWS Certified</h3>
+<h3 align="center">Software Developer | React & React Native | </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadabdal&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadabdal" /> </p>
 
@@ -7,8 +7,7 @@
 
 - 🚀 **Results-oriented Developer** with 2+ years of experience delivering scalable, high-performance web and mobile applications using React, React Native, and Python/FastAPI.
 - 💻 **Currently working on** ProcureSprint, an AI-based procurement platform, building the frontend in React and backend APIs in FastAPI.
-- 🧠 **Exploring & Building:** Enterprise-Ready AI Agents, Gen AI, LangChain, LlamaIndex, RAG, NLP, and DevSecOps.
-- ☁️ **Certifications:** 2X Azure Certified | 1X AWS Certified.
+- 🧠 **Exploring & Building:** Enterprise-Ready AI Agents, Gen AI, LangChain, LlamaIndex, RAG, NLP.
 - 📫 **How to reach me:** **ahmadabdal675@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
